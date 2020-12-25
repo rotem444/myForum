@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myForum/static/css/main.22b6e383.chunk.css",
+    "main.js": "/myForum/static/js/main.23e5448a.chunk.js",
+    "main.js.map": "/myForum/static/js/main.23e5448a.chunk.js.map",
+    "runtime-main.js": "/myForum/static/js/runtime-main.e224fe54.js",
+    "runtime-main.js.map": "/myForum/static/js/runtime-main.e224fe54.js.map",
+    "static/css/2.877ddc46.chunk.css": "/myForum/static/css/2.877ddc46.chunk.css",
+    "static/js/2.9ad439fa.chunk.js": "/myForum/static/js/2.9ad439fa.chunk.js",
+    "static/js/2.9ad439fa.chunk.js.map": "/myForum/static/js/2.9ad439fa.chunk.js.map",
+    "static/js/3.55a99a8c.chunk.js": "/myForum/static/js/3.55a99a8c.chunk.js",
+    "static/js/3.55a99a8c.chunk.js.map": "/myForum/static/js/3.55a99a8c.chunk.js.map",
+    "index.html": "/myForum/index.html",
+    "static/css/2.877ddc46.chunk.css.map": "/myForum/static/css/2.877ddc46.chunk.css.map",
+    "static/css/main.22b6e383.chunk.css.map": "/myForum/static/css/main.22b6e383.chunk.css.map",
+    "static/js/2.9ad439fa.chunk.js.LICENSE.txt": "/myForum/static/js/2.9ad439fa.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/myForum/static/media/fa-solid-900.46fdbd2d.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e224fe54.js",
+    "static/css/2.877ddc46.chunk.css",
+    "static/js/2.9ad439fa.chunk.js",
+    "static/css/main.22b6e383.chunk.css",
+    "static/js/main.23e5448a.chunk.js"
+  ]
+}
